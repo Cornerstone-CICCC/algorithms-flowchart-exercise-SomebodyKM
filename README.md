@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MaxGg-W5)
+
 # Flowchart Exercises
 
 ## Requirements
@@ -22,6 +23,8 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
+
+![Exercise 1](/flowcharts/Screenshot1.png)
 
 ## Exercise 2
 
@@ -65,4 +68,3 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
-
