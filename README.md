@@ -74,3 +74,5 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+
+![Exercise 5](/flowcharts/Screenshot5.png)
